@@ -7,7 +7,7 @@ KernelSU / APatch module for Poco F5 (Marble) that repackages black glow fix com
 - Xiaomi Poco F5 / Marble  *ONLY*
 
 ## Installation
-[You need meta module for the module to mount.If you haven't installed please install it.]
+[You need meta module like mountify for this module to mount.If you haven't installed please install it.]
 1. Download the [Module](https://github.com/sakthibalank-f/Marble-Poco-F5-black-glow-fix/releases/latest/download/BlackGlowFixMarble-v0.3-A17-KSU.zip)
 2. Flash the module through KernelSU or APatch.
 3. Reboot.
