@@ -1,0 +1,6 @@
+id=BlackGlowFixMarble
+name=Black Color Glow Fix (marble, A17)
+version=0.3
+versionCode=3
+author=painflictor
+description=Removes screen glow on black on POCO F5 (marble). Display calibration JSON + panel XML from Evolution-X vendor commit cb5cb30.
